@@ -1,0 +1,1 @@
+This folder contains scripts for exporting data for a space-time satscan analysis at the daily timestep and township level.
