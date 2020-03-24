@@ -1,5 +1,5 @@
 # lepto_vic_pntd
-Code supporting the analysis of environmental determinants of leptospirosis in Sichuan, China
+Analysis of environmental determinants of leptospirosis in Sichuan, China
 
 This code supported the analysis of a medical geospatial dataset, leveraging the large-scale hydroclimatic model VIC as well as distributed-lags gam regression models.
 
